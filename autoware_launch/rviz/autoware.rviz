@@ -1127,7 +1127,7 @@ Visualization Manager:
                       Enabled: true
                       Name: OcclusionSpot
                       Namespaces:
-                        arrow: false
+                        arrow: true
                         occlusion spot slow down: true
                         collision: false
                         info_obstacle: false
